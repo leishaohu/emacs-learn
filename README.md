@@ -1,5 +1,7 @@
 # Da lao's init.el
 
+**markdown bold** and *markdown italy*
+
 Learn from a dalao and so many interesting things;
 ```
 (setq package-archives '(("gnu"   . "https://elpa.emacs-china.org/gnu/")
